@@ -1,5 +1,5 @@
 ## source: https://github.com/GoogleCloudPlatform/cloud-builders-community/blob/master/docker-compose/Dockerfile
-FROM ubuntu:latest
+FROM ubuntu:rolling
 
 ARG DOCKER_COMPOSE_VERSION
 
