@@ -1,4 +1,5 @@
 ## source: https://github.com/GoogleCloudPlatform/cloud-builders-community/blob/master/docker-compose/Dockerfile
+
 FROM ubuntu:23.04
 
 ARG DOCKER_COMPOSE_VERSION
